@@ -1,8 +1,14 @@
-# React + Vite
+# 🚦IN THIS REPOSITORY:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📜Todo App📆
 
-Currently, two official plugins are available:
+### 📢You can see output in 📌[Netlify.com]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Get Started](./public/Screenshot%202024-02-25%20004123.jpg)
+
+
+***Process:***
++ this app created with normal `props, state, updated state values and needed functionalities had send` to respected components.
++ Sending props to all needed components.
++ Added functionalities in `App.jsx` or likely called Developer component.
++ In this app, I created three components first one for input page(Form page), second component is menubar and finally created component to display stored Todo data.
