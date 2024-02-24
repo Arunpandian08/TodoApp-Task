@@ -2,7 +2,7 @@
 
 ## 📜Todo App📆
 
-### 📢You can see output in 📌[Netlify.com]()
+### 📢You can see output in 📌[Netlify.com](https://todo-app-by-arun.netlify.app/)
 
 ![Get Started](./public/Screenshot%202024-02-25%20004123.jpg)
 
