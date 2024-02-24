@@ -1,0 +1,15 @@
+#root {
+  max-width: 992px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+@media screen and (max-width:320px) {
+  body {
+    margin: 0 !important;
+  }
+}
+
+.navbar {
+  align-items: center;
+}
